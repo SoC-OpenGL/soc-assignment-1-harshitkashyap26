@@ -1,4 +1,4 @@
-(1) Download The Visual Studio Project Folder and open it via Visual Studio. C++ Workspace 
+(1) Download The Visual Studio Project Folder 'OpenGLRoot' and open it via Visual Studio. C++ Workspace 
 should be installed on your Visual Studio to compile, build and run the codes. GLFW and GLEW
 files are already included in the project and linked properly.
 
